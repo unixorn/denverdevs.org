@@ -24,7 +24,7 @@
     "@vue/eslint-config-airbnb": "^3.0.0-beta.6",
     "@vue/test-utils": "^1.0.0-beta.10",
     "chai": "^4.1.2",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "sass-loader": "^6.0.6",
     "vue-template-compiler": "^2.5.13",
     "vuepress": "^0.10.0"
